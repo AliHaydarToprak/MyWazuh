@@ -1,3 +1,3 @@
-# My Security Lab
+### My Security Lab
 
-### [Installation Steps](https://github.com/AliHaydarToprak/MyWazuh/tree/main/Installation)
+- [Wazuh Installation](https://github.com/AliHaydarToprak/MySecurityLabs/tree/main/Wazuh-Installation)
